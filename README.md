@@ -20,19 +20,29 @@
 <!--  SEÇÃO 01 -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" align="left" alt="Developer Coding GIF" />
 
-<div align="center">
-  <h3>⚡ <code>[01] // BIOMETRIC_SCAN :: OPERATOR_DOSSIER</code></h3>
-</div>
-
-<div align="justify">
-
-Desenvolvedor de Software **Full-Stack & Arquiteto de Sistemas** focado no desenvolvimento de plataformas empresariais de alta performance, automações de missão crítica, aplicativos móveis e computação embarcada.
-
-Engenharia de software com proficiência prática em **`C++`**, **`C#`**, **`Java`**, **`Python`**, **`TypeScript`**, **`JavaScript`** e **`Kotlin`**, integrados a ecossistemas escaláveis com **`Node.js`**, **`FastAPI`**, **`Vue.js`**, **`React Native`**, **`.NET MAUI`** e controle de hardware com microcontroladores **`Arduino`**.
-
-Experiência consolidada na entrega de **ERPs completos, automações fiscais síncronas/assíncronas (NF-e/DANFE), rotinas industriais de PCP com telemetria óptica e integração com agentes autônomos de Inteligência Artificial**.
-
-</div>
+<table width="100%">
+  <tr>
+    <!-- Coluna da Imagem com Badge de Status -->
+    <td width="36%" align="center" valign="middle">
+      <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding GIF" />
+      <br><br>
+      <img src="https://img.shields.io/badge/OPERATOR-ONLINE-00F0FF?style=flat-square&labelColor=090D16" />
+      <img src="https://img.shields.io/badge/ARCH-FULLSTACK-FF0055?style=flat-square&labelColor=090D16" />
+    </td>
+    <!-- Coluna de Informações e Competências -->
+    <td width="64%" valign="top">
+      <h3>⚡ <code>[01] // BIOMETRIC_SCAN :: OPERATOR_DOSSIER</code></h3>
+      <p align="justify">
+        <b>Full-Stack Software Developer & Systems Architect</b> especializado em plataformas corporativas de alta performance, automações de missão crítica, aplicativos móveis e computação embarcada.
+      </p>
+      <p align="justify">
+        ◈ <b>Core Languages:</b> <code>C++</code> • <code>C#</code> • <code>Java</code> • <code>Python</code> • <code>TypeScript</code> • <code>JavaScript</code> • <code>Kotlin</code><br>
+        ◈ <b>Frameworks & IoT:</b> <code>Node.js</code> • <code>FastAPI</code> • <code>Vue.js</code> • <code>React Native</code> • <code>.NET MAUI</code> • <code>Arduino</code><br>
+        ◈ <b>Especialidades:</b> Arquiteturas ERP completas, pipelines fiscais síncronos/assíncronos (NF-e/DANFE), telemetria industrial de PCP e integração com agentes autônomos de IA.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br clear="both">
 <br>
