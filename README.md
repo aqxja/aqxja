@@ -115,7 +115,7 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 </table>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqxja&layout=compact&langs_count=10&bg_color=090D16&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqxja&layout=compact&langs_count=10&card_width=800&bg_color=090D16&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12" alt="Top Languages" />
 </div>
 
 <!-- DIVISOR NEON CIBERNÉTICO -->
