@@ -1,12 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:00F0FF,100:FF0055&height=200&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20Systems%20Architect&descAlignY=62&descSize=15&descColor=00F0FF" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050811,45:00F0FF,100:FF0055&height=210&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%E2%97%89%20J.A.R.V.I.S.%20NEURAL%20MAINFRAME%20%E2%80%94%20FULL-STACK%20%26%20SYSTEMS%20ARCHITECT%20%E2%97%89&descAlignY=62&descSize=14&descColor=00F0FF" alt="Cyberpunk Header Banner" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=00F0FF&labelColor=090D16" alt="Status" />
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_MAX-FF0055?style=for-the-badge&logo=hackthebox&logoColor=FF0055&labelColor=090D16" alt="Security" />
   <img src="https://img.shields.io/badge/AI_CORE-INTEGRATED-FCEE0A?style=for-the-badge&logo=openai&logoColor=FCEE0A&labelColor=090D16" alt="AI Core" />
-  <img src="https://komarev.com/ghpvc/?username=AquilesBorim&label=VISITAS&color=00F0FF&style=for-the-badge&labelColor=090D16" alt="Views" />
+  <img src="https://img.shields.io/badge/HARDWARE-EMBEDDED_ACTIVE-00F0FF?style=for-the-badge&logo=arduino&logoColor=00F0FF&labelColor=090D16" alt="Embedded Active" />
+  <img src="https://komarev.com/ghpvc/?username=AquilesBorim&label=TELEMETRIA%20VISITAS&color=00F0FF&style=for-the-badge&labelColor=090D16" alt="Profile Views" />
 </p>
 
 <a href="https://github.com/AquilesBorim">
@@ -17,13 +18,14 @@
 
 ---
 
-### 👨‍💻 `[01] // DOSSIÊ DO OPERADOR`
+### 👨‍💻 `[01] // DOSSIÊ DE IDENTIFICAÇÃO (BIOMETRIC SCAN)`
 
 ```yaml
-
-# PROFILE IDENTIFICATION
-
+# ==============================================================================
+# J.A.R.V.I.S. TELEMETRY DIAGNOSTIC // PROFILE IDENTIFICATION
+# ==============================================================================
 OPERADOR        : "Aquiles José Antonio Borim Neto"
+CALLSIGN        : "Aquiles Neto"
 FUNÇÃO          : "Full-Stack Software Developer & Systems Architect"
 ÁREA            : "Plataformas Web, ERPs Empresariais, Rastreio Industrial e Hardware Embutido"
 ESTADO          : "Compilando Soluções de Alto Desempenho em Produção"
