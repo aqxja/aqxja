@@ -21,14 +21,12 @@
 
 <table width="100%">
   <tr>
-    <!-- Coluna da Imagem com Badge de Status -->
     <td width="36%" align="center" valign="middle">
       <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding GIF" />
       <br><br>
       <img src="https://img.shields.io/badge/OPERATOR-ONLINE-00F0FF?style=flat-square&labelColor=090D16" />
       <img src="https://img.shields.io/badge/ARCH-FULLSTACK-FF0055?style=flat-square&labelColor=090D16" />
     </td>
-    <!-- Coluna de Informações e Competências -->
     <td width="64%" valign="top">
       <h3>⚡ <code>[01] // BIOMETRIC_SCAN :: OPERATOR_DOSSIER</code></h3>
       <p align="justify">
@@ -56,7 +54,7 @@
 <!--SEÇÃO 02-->
 <div align="center">
 
-<h3>📟 <code>[02] // SYSTEM LOAD & MISSION ROADMAP</code></h3>
+<h3>📟 <code>SYSTEM LOAD & MISSION ROADMAP</code></h3>
 
 <img width="380" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" alt="Coding Tech Animation" />
 
@@ -96,7 +94,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
 <!--  SEÇÃO 03-->
-<h3 align="center">⚡ <code>[03] // NEURAL TECH MATRIX & LIVE TELEMETRY</code></h3>
+<h3 align="center">⚡ <code>NEURAL TECH MATRIX & LIVE TELEMETRY</code></h3>
 
 <table align="center" width="100%">
   <tr>
@@ -123,7 +121,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
 <!--SEÇÃO 04-->
-<h3 align="center">🛰️ <code>[04] // DEPLOYED MAINFRAMES :: PROJETOS EM DESTAQUE</code></h3>
+<h3 align="center">🛰️ <code>DEPLOYED MAINFRAMES :: PROJETOS EM DESTAQUE</code></h3>
 
 <table width="100%">
   <tr>
@@ -173,7 +171,7 @@
 
 <div align="center">
 
-<h3>📊 <code>[05] // QUANTUM_METRICS :: LIVE TELEMETRY MATRIX</code></h3>
+<h3>📊 <code> QUANTUM_METRICS :: LIVE TELEMETRY MATRIX</code></h3>
 
 <table width="100%">
   <tr>
@@ -226,7 +224,7 @@
 <!--SEÇÃO 06 -->
 <div align="center">
 
-<h3>🌐 <code>[06] // NEURAL COMM CHANNELS :: PROTOCOLOS DE TRANSMISSÃO</code></h3>
+<h3>🌐 <code> NEURAL COMM CHANNELS :: PROTOCOLOS DE TRANSMISSÃO</code></h3>
 
 <table width="100%">
   <tr>
@@ -264,7 +262,7 @@
 <br><br>
 
 <pre>
-⚡ <b>J.A.R.V.I.S. DISPATCH LOG</b> // <i>"Sometimes you gotta run before you can walk."</i> ⚡
+⚡ <b>DISPATCH LOG</b> // <i>"Sometimes you gotta run before you can walk."</i> ⚡
 STATUS: <b>TRANSMISSION COMPLETED</b> // PORT 443 [TLS 1.3] // ALL PACKETS ROUTED
 </pre>
 
