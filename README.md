@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,45:7000FF,100:00F0FF&height=220&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=J.A.R.V.I.S.%20NEURAL%20MAINFRAME%20%2F%2F%20FULL-STACK%20SYSTEMS%20ARCHITECT&descAlignY=62&descSize=15&descColor=00F0FF" alt="Cyberpunk Animated Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,45:7000FF,100:00F0FF&height=220&section=header&text=AQUILES%20BORIM&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=D.E.V.O.L.O.P.E.R%20NEURAL%20MAINFRAME%20%2F%2F%20FULL-STACK%20SYSTEMS%20ARCHITECT&descAlignY=62&descSize=15&descColor=00F0FF" alt="Cyberpunk Animated Banner" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AquilesBorim&label=TELEMETRY%20VIEWS&color=00F0FF&style=for-the-badge&labelColor=090D16" alt="Profile Views" />
