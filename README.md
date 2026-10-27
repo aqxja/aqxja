@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ======================== BANNER PRINCIPAL COM ANIMAÇÃO TWINKLING & CORES CYBER ======================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,45:7000FF,100:00F0FF&height=220&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=J.A.R.V.I.S.%20NEURAL%20MAINFRAME%20%2F%2F%20FULL-STACK%20SYSTEMS%20ARCHITECT&descAlignY=62&descSize=15&descColor=00F0FF" alt="Cyberpunk Animated Banner" />
 
-<!-- ======================== STATUS TELEMETRY BADGES ======================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AquilesBorim&label=TELEMETRY%20VIEWS&color=00F0FF&style=for-the-badge&labelColor=090D16" alt="Profile Views" />
   <img src="https://img.shields.io/badge/SECURITY-LEVEL_MAX-FF0055?style=for-the-badge&logo=hackthebox&logoColor=FF0055&labelColor=090D16" alt="Security" />
@@ -11,17 +9,15 @@
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=00F0FF&labelColor=090D16" alt="System Online" />
 </p>
 
-<!-- ======================== TYPING ANIMATION (ALTURA EXPANDIDA) ======================== -->
 <a href="https://github.com/aqxja">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=00F0FF&background=090D1600&center=true&vCenter=true&multiline=true&repeat=true&width=880&height=135&lines=%3E+SYS.INIT%3A+AQUILES+NETO+%2F%2F+NEURAL+MAINFRAME;%3E+FULL-STACK+SOFTWARE+ENGINEER+%7C+SYSTEMS+%26+ERP+ARCHITECT;%3E+STACK%3A+C%2B%2B+%7C+C%23+%7C+JAVA+%7C+PYTHON+%7C+TS%2FJS+%7C+KOTLIN+%7C+NODE;%3E+FRAMEWORKS%3A+FASTAPI+%7C+VUE.JS+%7C+.NET+MAUI+%7C+REACT+NATIVE+%7C+ARDUINO;%3E+DEPLOYING+HIGH-PERFORMANCE+SYSTEMS+%26+AUTOMATION+AGENTS" alt="Typing Animation" />
 </a>
 
 </div>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 01: DOSSIÊ DO OPERADOR ======================== -->
+<!--  SEÇÃO 01 -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" align="left" alt="Developer Coding GIF" />
 
 <div align="center">
@@ -46,15 +42,13 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 
 <br>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 02: TELEMETRIA DE CARGA E TERMINAL ======================== -->
+<!--SEÇÃO 02-->
 <div align="center">
 
 <h3>📟 <code>[02] // SYSTEM LOAD & MISSION ROADMAP</code></h3>
 
-<!-- GIF CENTRALIZADO ACIMA DAS BADGES -->
 <img width="380" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" alt="Coding Tech Animation" />
 
 <br><br>
@@ -90,10 +84,9 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 🔴 <b>[FILA CRÍTICA]</b> Implementação de telemetria distribuída, métricas e observabilidade
 </pre>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 03: TECH STACK + LIVE STATS ======================== -->
+<!--  SEÇÃO 03-->
 <h3 align="center">⚡ <code>[03] // NEURAL TECH MATRIX & LIVE TELEMETRY</code></h3>
 
 <table align="center" width="100%">
@@ -118,10 +111,9 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqxja&layout=compact&langs_count=10&card_width=800&bg_color=090D16&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12" alt="Top Languages" />
 </div>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 04: PROJETOS EM DESTAQUE ======================== -->
+<!--SEÇÃO 04-->
 <h3 align="center">🛰️ <code>[04] // DEPLOYED MAINFRAMES :: PROJETOS EM DESTAQUE</code></h3>
 
 <table width="100%">
@@ -167,7 +159,7 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
   </tr>
 </table>
 
-<!-- DIVISOR NEON CIBERNÉTICO 
+<!-- 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
 <div align="center">
@@ -222,7 +214,7 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
  
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />-->
 
-<!-- ======================== SEÇÃO 06: CENTRAL DE CONEXÕES HOLOGRÁFICA ======================== -->
+<!--SEÇÃO 06 -->
 <div align="center">
 
 <h3>🌐 <code>[06] // NEURAL COMM CHANNELS :: PROTOCOLOS DE TRANSMISSÃO</code></h3>
@@ -267,7 +259,6 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 STATUS: <b>TRANSMISSION COMPLETED</b> // PORT 443 [TLS 1.3] // ALL PACKETS ROUTED
 </pre>
 
-<!-- FOOTER CIBERNÉTICO FINAL -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:091B2F,100:050811&height=110&section=footer&text=END%20OF%20TRANSMISSION%20%2F%2F%20AQUILES%20NETO&fontSize=14&fontColor=00F0FF&fontAlignY=68" alt="Footer Banner" />
 
 </div>
