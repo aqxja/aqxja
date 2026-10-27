@@ -1,13 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,40:091B2F,80:00F0FF,100:FF0055&height=220&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%E2%97%89%20J.A.R.V.I.S.%20NEURAL%20MAINFRAME%20%E2%80%94%20FULL-STACK%20%26%20SYSTEMS%20ARCHITECT%20%E2%97%89&descAlignY=62&descSize=15&descColor=00F0FF" alt="Cyberpunk Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:00F0FF,100:FF0055&height=200&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20Systems%20Architect&descAlignY=62&descSize=15&descColor=00F0FF" alt="Header Banner" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=00F0FF&labelColor=090D16" alt="Status" />
-  <img src="https://img.shields.io/badge/SECURITY-LEVEL_MAX-FF0055?style=for-the-badge&logo=hackthebox&logoColor=FF0055&labelColor=090D16" alt="Security" />
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_MAX-FF0055?style=for-the-badge&logo=hackthebox&logoColor=FF0055&labelColor=090D16" alt="Security" />
   <img src="https://img.shields.io/badge/AI_CORE-INTEGRATED-FCEE0A?style=for-the-badge&logo=openai&logoColor=FCEE0A&labelColor=090D16" alt="AI Core" />
-  <img src="https://img.shields.io/badge/HARDWARE-EMBEDDED_ACTIVE-00F0FF?style=for-the-badge&logo=arduino&logoColor=00F0FF&labelColor=090D16" alt="Embedded Active" />
-  <img src="https://komarev.com/ghpvc/?username=AquilesBorim&label=TELEMETRIA%20VISITAS&color=00F0FF&style=for-the-badge&labelColor=090D16" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AquilesBorim&label=VISITAS&color=00F0FF&style=for-the-badge&labelColor=090D16" alt="Views" />
 </p>
 
 <a href="https://github.com/AquilesBorim">
@@ -18,13 +17,13 @@
 
 ---
 
-### 👨‍💻 `[01] // DOSSIÊ DO OPERADOR (BIOMETRIC SCAN)`
+### 👨‍💻 `[01] // DOSSIÊ DO OPERADOR`
 
 ```yaml
+
 # PROFILE IDENTIFICATION
 
 OPERADOR        : "Aquiles José Antonio Borim Neto"
-CALLSIGN        : "Aquiles Neto"
 FUNÇÃO          : "Full-Stack Software Developer & Systems Architect"
 ÁREA            : "Plataformas Web, ERPs Empresariais, Rastreio Industrial e Hardware Embutido"
 ESTADO          : "Compilando Soluções de Alto Desempenho em Produção"
@@ -35,31 +34,3 @@ RESUMO_PERFIL   : >
   Proficient across multiple paradigms with a solid foundation in C++, C#, Java,
   Python, TypeScript, and Kotlin, complemented by practical expertise in Node.js,
   React Native, modern front-end architectures (HTML5/CSS3/Vue.js), and Arduino prototyping.
-
-📟[02] // MÓDULODIAGNÓSTICO OPERACIONALCARGA DO SISTEMA
-
-
-Backend & Logic Core	Node.js / FastAPI / C# / Python	██████████████████░░ 92%
-Frontend & UI Systems	Vue.js / TypeScript / Web 3D / CSS3	█████████████████░░░ 88%
-Data & Architecture	MariaDB / MySQL / Firebase / REST	███████████████████░ 95%
-Hardware & Mobile	Arduino IoT / .NET MAUI / Android	████████████████░░░░ 82%
-
-💻 [03] // TERMINAL ROADMAP (DIRETRIZES & METAS)
-
-root@cyberdeck-mainframe:~# ./execute_mission_profile.sh --year=2026
-
-[SYS_LOG] Carregando protocolos e objetivos operacionais...
-
-+ [CONCLUÍDO] Arquitetura de ERP proprietário Full-Stack com persistência em MariaDB
-+ [CONCLUÍDO] Automação fiscal de NF-e, DANFE e sincronização assíncrona de pedidos
-+ [CONCLUÍDO] Aplicativo mobile nativo para leitura óptica e rastreamento industrial (.NET MAUI)
-+ [CONCLUÍDO] Integração de agentes de Inteligência Artificial para suporte contextualizado
-
-! [EM ANDAMENTO] Otimização de microsserviços em C++, C# e Python para baixa latência
-! [EM ANDAMENTO] Prototipagem avançada de hardware e automação via Arduino & IoT
-! [EM ANDAMENTO] Arquiteturas distribuídas de alta disponibilidade e segurança defensiva
-
-- [PLANEJADO] Implementação de pipelines avançados de observabilidade e métricas de telemetria
-- [PLANEJADO] Desenvolvimento de pacotes e ferramentas open-source para a comunidade dev
-
-root@cyberdeck-mainframe:~# _
