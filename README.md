@@ -49,18 +49,21 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 <!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 02: TELEMETRIA DE CARGA E TERMINAL (CORRIGIDA) ======================== -->
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Tech HUD Radar" />
+<!-- ======================== SEÇÃO 02: TELEMETRIA DE CARGA E TERMINAL ======================== -->
+<div align="center">
 
-<h3 align="center">📟 <code>[02] // SYSTEM LOAD & MISSION ROADMAP</code></h3>
+<h3>📟 <code>[02] // SYSTEM LOAD & MISSION ROADMAP</code></h3>
+
+<!-- GIF CENTRALIZADO ACIMA DAS BADGES -->
+<img width="380" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" alt="Coding Tech Animation" />
+
+<br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CPU_CORE-OPTIMIZED-00F0FF?style=flat-square&labelColor=090D16" />
   <img src="https://img.shields.io/badge/DATABASE-NORMALIZED-FF0055?style=flat-square&labelColor=090D16" />
   <img src="https://img.shields.io/badge/LATENCY-ULTRA_LOW-FCEE0A?style=flat-square&labelColor=090D16" />
 </p>
-
-<div align="center">
 
 | CAMADA OPERACIONAL | STACK PRINCIPAL | CARGA DO SISTEMA |
 | :--- | :--- | :---: |
@@ -71,7 +74,7 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 
 </div>
 
-<br clear="both">
+<br>
 
 <pre>
 <b>root@cyberdeck-mainframe:~#</b> ./execute_mission_profile.sh --year=2026
