@@ -164,15 +164,13 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
   </tr>
 </table>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
+<!-- DIVISOR NEON CIBERNÉTICO 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 05: CENTRAL DE COMANDO QUANTUM & COBRINHA (EMOLDURADA) ======================== -->
 <div align="center">
 
 <h3>📊 <code>[05] // QUANTUM_METRICS :: LIVE TELEMETRY MATRIX</code></h3>
 
-<!-- HUD TELEMETRIA MATRIX -->
 <table width="100%">
   <tr>
     <td width="25%" align="center">
@@ -196,7 +194,6 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 
 <br>
 
-<!-- CARD EMOLDURADO DA COBRINHA (ESTRUTURA RADAR HUD) -->
 <table width="100%">
   <thead>
     <tr>
@@ -219,9 +216,8 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 </table>
 
 </div>
-
-<!-- DIVISOR NEON CIBERNÉTICO -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
+ 
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />-->
 
 <!-- ======================== SEÇÃO 06: CENTRAL DE CONEXÕES HOLOGRÁFICA ======================== -->
 <div align="center">
