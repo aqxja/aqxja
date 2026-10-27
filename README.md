@@ -45,7 +45,7 @@
 <br>
 
 > [!IMPORTANT]
-> **DIRETRIZ DE ARQUITETURA:** *"O código nunca está concluído; ele evolui continuamente para menor latência, maior resiliência e concisão estrutural."*
+> **DIRETRIZ DE PENSAMENTO DO DEVOLOPER:** *"O código nunca está concluído; ele evolui continuamente para menor latência, maior resiliência e concisão estrutural."*
 
 <br>
 
@@ -131,7 +131,7 @@
         <img src="https://img.shields.io/badge/STATUS-EM_PRODU%C3%87%C3%83O-00F0FF?style=flat-square&labelColor=090D16" />
         <img src="https://img.shields.io/badge/ARCH-FULLSTACK-FF0055?style=flat-square&labelColor=090D16" />
       </p>
-      <p align="justify">Ecossistema corporativo completo para faturamento automatizado de NF-e/DANFE, conciliação bancária via API, sincronização de estoque multi-empresa e painéis analíticos gerenciais.</p>
+      <p align="center">Ecossistema corporativo completo para faturamento automatizado de NF-e/DANFE, conciliação bancária via API, sincronização de estoque multi-empresa e painéis analíticos gerenciais.</p>
       <p align="center"><kbd>Vue.js</kbd> <kbd>FastAPI</kbd> <kbd>Node.js</kbd> <kbd>MariaDB</kbd> <kbd>REST APIs</kbd></p>
     </td>
     <td width="50%" valign="top">
@@ -140,7 +140,7 @@
         <img src="https://img.shields.io/badge/STATUS-OPERACIONAL-00F0FF?style=flat-square&labelColor=090D16" />
         <img src="https://img.shields.io/badge/IOT-EMBEDDED-FCEE0A?style=flat-square&labelColor=090D16" />
       </p>
-      <p align="justify">Planejamento e Controle de Produção com rastreabilidade por número de série, rotinas de impressão térmica silenciosa, app mobile com leitura óptica e integração com microcontroladores.</p>
+      <p align="center">Planejamento e Controle de Produção com rastreabilidade por número de série, rotinas de impressão térmica silenciosa, app mobile com leitura óptica e integração com microcontroladores.</p>
       <p align="center"><kbd>.NET MAUI</kbd> <kbd>Arduino</kbd> <kbd>C#</kbd> <kbd>MySQL</kbd> <kbd>Thermal Print</kbd></p>
     </td>
   </tr>
@@ -151,7 +151,7 @@
         <img src="https://img.shields.io/badge/STATUS-ATIVO-00F0FF?style=flat-square&labelColor=090D16" />
         <img src="https://img.shields.io/badge/ENGINE-GEMINI_AI-FF0055?style=flat-square&labelColor=090D16" />
       </p>
-      <p align="justify">Agente inteligente integrado a Large Language Models para diagnóstico técnico automatizado, triagem contextualizada no SAC e abertura automatizada de chamados operacionais.</p>
+      <p align="center">Agente inteligente integrado a Large Language Models para diagnóstico técnico automatizado, triagem contextualizada no SAC e abertura automatizada de chamados operacionais.</p>
       <p align="center"><kbd>Gemini API</kbd> <kbd>Node.js</kbd> <kbd>Python</kbd> <kbd>Webhooks</kbd></p>
     </td>
     <td width="50%" valign="top">
@@ -160,7 +160,7 @@
         <img src="https://img.shields.io/badge/STATUS-SEGURO-00F0FF?style=flat-square&labelColor=090D16" />
         <img src="https://img.shields.io/badge/FINANCE-PIX_%26_BOLETO-00F0FF?style=flat-square&labelColor=090D16" />
       </p>
-      <p align="justify">Checkout corporativo integrado a APIs de instituições financeiras para emissão de Pix QR Code e Boletos dinâmicos, integrado a renderizadores 3D interativos no navegador.</p>
+      <p align="center">Checkout corporativo integrado a APIs de instituições financeiras para emissão de Pix QR Code e Boletos dinâmicos, integrado a renderizadores 3D interativos no navegador.</p>
       <p align="center"><kbd>Three.js</kbd> <kbd>Firebase</kbd> <kbd>Banco Inter API</kbd> <kbd>JavaScript</kbd></p>
     </td>
   </tr>
