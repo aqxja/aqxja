@@ -94,7 +94,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
 <!--  SEÇÃO 03-->
-<h3 align="center">⚡ <code>NEURAL TECH MATRIX & LIVE TELEMETRY</code></h3>
+<h3 align="center">⚡ <code>[03] // NEURAL TECH MATRIX & LIVE TELEMETRY</code></h3>
 
 <table align="center" width="100%">
   <tr>
@@ -115,7 +115,7 @@
 </table>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqxja&layout=compact&langs_count=10&card_width=800&bg_color=090D16&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12" alt="Top Languages" />
+  <img width="710" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqxja&layout=compact&langs_count=10&card_width=710&bg_color=090D16&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12" alt="Top Languages" />
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
