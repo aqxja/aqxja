@@ -23,9 +23,8 @@
 ### 👨‍💻 `[01] // DOSSIÊ DE IDENTIFICAÇÃO`
 
 ```yaml
-# ==============================================================================
 #USER-CONFIGS
-# ==============================================================================
+
 OPERADOR        : "Aquiles José Antonio Borim Neto"
 FUNÇÃO          : "Full-Stack Software Developer & Systems Architect"
 ÁREA            : "Plataformas Web, ERPs Empresariais, Rastreio Industrial e Hardware Embutido"
@@ -38,25 +37,4 @@ RESUMO_PERFIL   : >
   Python, TypeScript, and Kotlin, complemented by practical expertise in Node.js,
   React Native, modern front-end architectures (HTML5/CSS3/Vue.js), and Arduino prototyping.
 
-💻 `[05] // TERMINAL ROADMAP`
-
-```diff
-root@cyberdeck-mainframe:~# ./execute_mission_profile.sh --year=2026
-
-[SYS_LOG] Carregando protocolos e objetivos operacionais...
-
-+ [CONCLUÍDO] Arquitetura de ERP proprietário Full-Stack com persistência em MariaDB
-+ [CONCLUÍDO] Automação fiscal de NF-e, DANFE e sincronização assíncrona de pedidos
-+ [CONCLUÍDO] Aplicativo mobile nativo para leitura óptica e rastreamento industrial (.NET MAUI)
-+ [CONCLUÍDO] Integração de agentes de Inteligência Artificial para suporte contextualizado
-
-! [EM ANDAMENTO] Otimização de microsserviços em C++, C# e Python para baixa latência
-! [EM ANDAMENTO] Prototipagem avançada de hardware e automação via Arduino & IoT
-! [EM ANDAMENTO] Arquiteturas distribuídas de alta disponibilidade e segurança defensiva
-
-- [PLANEJADO] Implementação de pipelines avançados de observabilidade e métricas de telemetria
-- [PLANEJADO] Desenvolvimento de pacotes e ferramentas open-source para a comunidade dev
-
-root@cyberdeck-mainframe:~# _
-```
 
