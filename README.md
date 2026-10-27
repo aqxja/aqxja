@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,45:7000FF,100:00F0FF&height=220&section=header&text=AQUILES%20BORIM&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=D.E.V.O.L.O.P.E.R.%20NEURAL%20MAINFRAME%20%2F%2F%20FULL-STACK%20ARCHITECT&descAlignY=62&descSize=15&descColor=00F0FF" alt="Cyberpunk Animated Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,45:7000FF,100:00F0FF&height=220&section=header&text=AQUILES%20BORIM&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=DEVELOPER%20NEURAL%20MAINFRAME%20%2F%2F%20FULL-STACK%20ARCHITECT&descAlignY=62&descSize=15&descColor=00F0FF" alt="Cyberpunk Animated Banner" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AquilesBorim&label=TELEMETRY%20VIEWS&color=00F0FF&style=for-the-badge&labelColor=090D16" alt="Profile Views" />
@@ -17,7 +17,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!--  SEÇÃO 01 -->
+<!-- SECTION 01 -->
 
 <table width="100%">
   <tr>
@@ -30,12 +30,12 @@
     <td width="64%" valign="top">
       <h3>⚡ <code>BIOMETRIC_SCAN :: OPERATOR_DOSSIER</code></h3>
       <p align="justify">
-        <b>Full-Stack Software Developer & Systems Architect</b> especializado em plataformas corporativas de alta performance, automações de missão crítica, aplicativos móveis e computação embarcada.
+        <b>Full-Stack Software Developer & Systems Architect</b> specializing in high-performance enterprise platforms, mission-critical automations, mobile applications, and embedded computing.
       </p>
       <p align="justify">
         ◈ <b>Core Languages:</b> <code>C++</code> • <code>C#</code> • <code>Java</code> • <code>Python</code> • <code>TypeScript</code> • <code>JavaScript</code> • <code>Kotlin</code><br>
         ◈ <b>Frameworks & IoT:</b> <code>Node.js</code> • <code>FastAPI</code> • <code>Vue.js</code> • <code>React Native</code> • <code>.NET MAUI</code> • <code>Arduino</code><br>
-        ◈ <b>Especialidades:</b> Arquiteturas ERP completas, pipelines fiscais síncronos/assíncronos (NF-e/DANFE), telemetria industrial de PCP e integração com agentes autônomos de IA.
+        ◈ <b>Specialties:</b> Full-scale ERP architectures, synchronous/asynchronous fiscal pipelines (NF-e/DANFE), industrial PCP telemetry, and autonomous AI agent integrations.
       </p>
     </td>
   </tr>
@@ -45,13 +45,13 @@
 <br>
 
 > [!IMPORTANT]
-> **DIRETRIZ DE PENSAMENTO DO DEVOLOPER:** *"O código nunca está concluído; ele evolui continuamente para menor latência, maior resiliência e concisão estrutural."*
+> **DEVELOPER CORE MINDSET:** *"Code is never finished; it continuously evolves toward lower latency, greater resilience, and structural conciseness."*
 
 <br>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!--SEÇÃO 02-->
+<!-- SECTION 02 -->
 <div align="center">
 
 <h3>📟 <code>SYSTEM LOAD & MISSION ROADMAP</code></h3>
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/LATENCY-ULTRA_LOW-FCEE0A?style=flat-square&labelColor=090D16" />
 </p>
 
-| CAMADA OPERACIONAL | STACK PRINCIPAL | CARGA DO SISTEMA |
+| OPERATIONAL LAYER | CORE STACK | SYSTEM LOAD |
 | :--- | :--- | :---: |
 | **Backend & Core APIs** | Node.js • FastAPI • C# • Python • Express | <img src="https://img.shields.io/badge/LOAD-92%25-00F0FF?style=for-the-badge&logo=speedtest&logoColor=00F0FF&labelColor=090D16" /> |
 | **Frontend & UI 3D** | Vue.js • TypeScript • Three.js • CSS3 | <img src="https://img.shields.io/badge/LOAD-88%25-7000FF?style=for-the-badge&logo=vuedotjs&logoColor=7000FF&labelColor=090D16" /> |
@@ -80,26 +80,26 @@
 <pre>
 <b>root@cyberdeck-mainframe:~#</b> ./execute_mission_profile.sh --year=2026
 
-🟢 <b>[CONCLUÍDO]</b> Arquitetura de ERP Full-Stack corporativo (FastAPI + Vue.js + MariaDB)
-🟢 <b>[CONCLUÍDO]</b> Automação fiscal síncrona de NF-e, DANFE e integração contábil
-🟢 <b>[CONCLUÍDO]</b> App móvel (.NET MAUI) para leitura óptica e rastreamento industrial (PCP)
-🟢 <b>[CONCLUÍDO]</b> Agente de atendimento técnico automatizado com Gemini AI & Webhooks
+🟢 <b>[COMPLETED]</b> Corporate Full-Stack ERP Architecture (FastAPI + Vue.js + MariaDB)
+🟢 <b>[COMPLETED]</b> Synchronous fiscal automation for NF-e, DANFE & accounting integration
+🟢 <b>[COMPLETED]</b> Mobile app (.NET MAUI) for optical barcode scanning & industrial tracking (PCP)
+🟢 <b>[COMPLETED]</b> Automated AI customer support agent powered by Gemini AI & Webhooks
 
-🟡 <b>[EM ANDAMENTO]</b> Microsserviços assíncronos de ultra-baixa latência em C++ e C#
-🟡 <b>[EM ANDAMENTO]</b> Prototipagem avançada de automação industrial com bancadas Arduino
+🟡 <b>[IN PROGRESS]</b> Ultra-low latency asynchronous microservices in C++ and C#
+🟡 <b>[IN PROGRESS]</b> Advanced industrial automation prototyping with Arduino testbenches
 
-🔴 <b>[FILA CRÍTICA]</b> Implementação de telemetria distribuída, métricas e observabilidade
+🔴 <b>[CRITICAL QUEUE]</b> Distributed telemetry implementation, real-time metrics & observability
 </pre>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!--  SEÇÃO 03-->
+<!-- SECTION 03 -->
 <h3 align="center">⚡ <code>NEURAL TECH MATRIX & LIVE TELEMETRY</code></h3>
 
 <table align="center" width="100%">
   <tr>
     <td valign="middle" width="46%" align="center">
-      <h4>🛠️ ARSENAL TECNOLÓGICO</h4>
+      <h4>🛠️ TECH ARSENAL</h4>
       <img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,py,ts&theme=dark" /><br><br>
       <img src="https://skillicons.dev/icons?i=js,nodejs,express,fastapi,vue,react&theme=dark" /><br><br>
       <img src="https://skillicons.dev/icons?i=html,css,threejs,dotnet,arduino,androidstudio&theme=dark" /><br><br>
@@ -120,27 +120,27 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!--SEÇÃO 04-->
-<h3 align="center">🛰️ <code>DEPLOYED MAINFRAMES :: PROJETOS EM DESTAQUE</code></h3>
+<!-- SECTION 04 -->
+<h3 align="center">🛰️ <code>DEPLOYED MAINFRAMES :: FEATURED PROJECTS</code></h3>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ Enterprise ERP & Multi-Channel Hub</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-EM_PRODU%C3%87%C3%83O-00F0FF?style=flat-square&labelColor=090D16" />
+        <img src="https://img.shields.io/badge/STATUS-IN_PRODUCTION-00F0FF?style=flat-square&labelColor=090D16" />
         <img src="https://img.shields.io/badge/ARCH-FULLSTACK-FF0055?style=flat-square&labelColor=090D16" />
       </p>
-      <p align="center">Ecossistema corporativo completo para faturamento automatizado de NF-e/DANFE, conciliação bancária via API, sincronização de estoque multi-empresa e painéis analíticos gerenciais.</p>
+      <p align="center">Comprehensive enterprise ecosystem for automated invoicing (NF-e/DANFE), banking API reconciliation, multi-company inventory synchronization, and analytical management dashboards.</p>
       <p align="center"><kbd>Vue.js</kbd> <kbd>FastAPI</kbd> <kbd>Node.js</kbd> <kbd>MariaDB</kbd> <kbd>REST APIs</kbd></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏭 PCP Industrial & Rastreio Inteligente</h3>
+      <h3 align="center">🏭 Industrial PCP & Smart Tracking</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-OPERACIONAL-00F0FF?style=flat-square&labelColor=090D16" />
+        <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F0FF?style=flat-square&labelColor=090D16" />
         <img src="https://img.shields.io/badge/IOT-EMBEDDED-FCEE0A?style=flat-square&labelColor=090D16" />
       </p>
-      <p align="center">Planejamento e Controle de Produção com rastreabilidade por número de série, rotinas de impressão térmica silenciosa, app mobile com leitura óptica e integração com microcontroladores.</p>
+      <p align="center">Production Planning and Control (PCP) featuring serial number tracking, silent thermal printing routines, optical barcode scanning mobile app, and microcontroller integration.</p>
       <p align="center"><kbd>.NET MAUI</kbd> <kbd>Arduino</kbd> <kbd>C#</kbd> <kbd>MySQL</kbd> <kbd>Thermal Print</kbd></p>
     </td>
   </tr>
@@ -148,125 +148,72 @@
     <td width="50%" valign="top">
       <h3 align="center">🤖 Neural AI Customer Support Agent</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-ATIVO-00F0FF?style=flat-square&labelColor=090D16" />
+        <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F0FF?style=flat-square&labelColor=090D16" />
         <img src="https://img.shields.io/badge/ENGINE-GEMINI_AI-FF0055?style=flat-square&labelColor=090D16" />
       </p>
-      <p align="center">Agente inteligente integrado a Large Language Models para diagnóstico técnico automatizado, triagem contextualizada no SAC e abertura automatizada de chamados operacionais.</p>
+      <p align="center">Intelligent AI agent powered by Large Language Models for automated technical triage, contextual customer support, and automatic operational ticket generation.</p>
       <p align="center"><kbd>Gemini API</kbd> <kbd>Node.js</kbd> <kbd>Python</kbd> <kbd>Webhooks</kbd></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💳 Gateway FinTech & Showcase 3D</h3>
+      <h3 align="center">💳 FinTech Gateway & 3D Showcase</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-SEGURO-00F0FF?style=flat-square&labelColor=090D16" />
+        <img src="https://img.shields.io/badge/STATUS-SECURE-00F0FF?style=flat-square&labelColor=090D16" />
         <img src="https://img.shields.io/badge/FINANCE-PIX_%26_BOLETO-00F0FF?style=flat-square&labelColor=090D16" />
       </p>
-      <p align="center">Checkout corporativo integrado a APIs de instituições financeiras para emissão de Pix QR Code e Boletos dinâmicos, integrado a renderizadores 3D interativos no navegador.</p>
+      <p align="center">Corporate checkout integrated with financial banking APIs for automated instant Pix QR Codes and dynamic bank slips, paired with interactive in-browser 3D product renderers.</p>
       <p align="center"><kbd>Three.js</kbd> <kbd>Firebase</kbd> <kbd>Banco Inter API</kbd> <kbd>JavaScript</kbd></p>
     </td>
   </tr>
 </table>
 
-<!-- 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
+<!-- SECTION 06 -->
 <div align="center">
 
-<h3>📊 <code> QUANTUM_METRICS :: LIVE TELEMETRY MATRIX</code></h3>
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <b>CORE PROTOCOL</b><br>
-      <img src="https://img.shields.io/badge/TLS_1.3-SECURED-00F0FF?style=flat-square&labelColor=090D16" alt="Protocol" />
-    </td>
-    <td width="25%" align="center">
-      <b>SYSTEM UPTIME</b><br>
-      <img src="https://img.shields.io/badge/MAINFRAME-99.98%25-39FF14?style=flat-square&labelColor=090D16" alt="Uptime" />
-    </td>
-    <td width="25%" align="center">
-      <b>NEURAL ENGINE</b><br>
-      <img src="https://img.shields.io/badge/GEMINI_LLM-ACTIVE-FF0055?style=flat-square&labelColor=090D16" alt="Engine" />
-    </td>
-    <td width="25%" align="center">
-      <b>DEPLOY PIPELINE</b><br>
-      <img src="https://img.shields.io/badge/CI%2FCD-AUTOMATED-FCEE0A?style=flat-square&labelColor=090D16" alt="Deploy" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center">
-        <code>[ RADAR TELEMETRY ] • CONTRIBUTION MATRIX STREAM • [ REAL-TIME FEED ]</code>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqxja/AquilesBorim/output/github-contribution-grid-snake-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqxja/AquilesBorim/output/github-contribution-grid-snake.svg" />
-          <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/aqxja/AquilesBorim/output/github-contribution-grid-snake-dark.svg" width="100%" />
-        </picture>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
- 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />-->
-
-<!--SEÇÃO 06 -->
-<div align="center">
-
-<h3>🌐 <code>NEURAL COMM CHANNELS :: PROTOCOLOS DE TRANSMISSÃO</code></h3>
+<h3>🌐 <code>NEURAL COMM CHANNELS :: TRANSMISSION PROTOCOLS</code></h3>
 
 <p>
-  <i>Selecione uma rota criptografada para inicializar o contato direto com o operador:</i>
+  <i>Select an encrypted route to initialize direct uplink with the operator:</i>
 </p>
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="24%" align="center">PROTOCOLO</th>
-      <th width="30%" align="center">CANAL OPERACIONAL</th>
+      <th width="24%" align="center">PROTOCOL</th>
+      <th width="30%" align="center">OPERATIONAL CHANNEL</th>
       <th width="22%" align="center">PORT STATUS</th>
-      <th width="24%" align="center">ESTABELECER LINK</th>
+      <th width="24%" align="center">ESTABLISH UPLINK</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center"><code>TLS_1.3 // B2B</code></td>
-      <td align="center"><b>LinkedIn Network</b><br><sub>Conexões, Projetos & Carreira</sub></td>
+      <td align="center"><b>LinkedIn Network</b><br><sub>Connections, Projects & Career</sub></td>
       <td align="center"><img src="https://img.shields.io/badge/ONLINE-00F0FF?style=flat-square&labelColor=090D16" alt="Online" /></td>
       <td align="center">
-        <a href="https://linkedin.com" target="_blank">
+        <a href="https://www.linkedin.com/in/aquiles-josé-antonio-borim-neto-4793a6447/" target="_blank">
           <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center"><code>SMTP // DIRECT</code></td>
-      <td align="center"><b>Encrypted Mail</b><br><sub>Propostas Comerciais & B2B</sub></td>
+      <td align="center"><b>Encrypted Mail</b><br><sub>Business Inquiries & B2B</sub></td>
       <td align="center"><img src="https://img.shields.io/badge/SECURE-FF0055?style=flat-square&labelColor=090D16" alt="Secure" /></td>
       <td align="center">
-        <a href="mailto:contato@exemplo.com" target="_blank">
-          <img src="https://img.shields.io/badge/DISPATCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <a href="mailto:aquiles123aq@hotmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/DISPATCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center"><code>WSS // INSTANT</code></td>
-      <td align="center"><b>WhatsApp Uplink</b><br><sub>Atendimento Direto & Ágil</sub></td>
+      <td align="center"><b>WhatsApp Uplink</b><br><sub>Direct & Fast Communication</sub></td>
       <td align="center"><img src="https://img.shields.io/badge/REALTIME-39FF14?style=flat-square&labelColor=090D16" alt="Realtime" /></td>
       <td align="center">
-        <a href="https://wa.me/" target="_blank">
-          <img src="https://img.shields.io/badge/CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        <a href="https://wa.me/5514981122300?text=Hello%20Aquiles%2C%20I%20would%20like%20to%20get%20in%20touch!" target="_blank">
+          <img src="https://img.shields.io/badge/CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
         </a>
       </td>
     </tr>
