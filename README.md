@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL CYBERDECK (ESTILO CILINDRO NEON) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050811,45:00F0FF,100:FF0055&height=210&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=%E2%97%89%20J.A.R.V.I.S.%20NEURAL%20MAINFRAME%20%E2%80%94%20FULL-STACK%20%26%20SYSTEMS%20ARCHITECT%20%E2%97%89&descAlignY=62&descSize=14&descColor=00F0FF" alt="Cyberpunk Header Banner" />
+<!-- BANNER PRINCIPAL CORRIGIDO (SEM ERRO DE PARSER XML) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:00F0FF,100:FF0055&height=210&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=J.A.R.V.I.S.%20NEURAL%20MAINFRAME%20%2F%2F%20FULL-STACK%20SYSTEMS%20ARCHITECT&descAlignY=62&descSize=15&descColor=00F0FF" alt="Header Banner" />
 
-<!-- BARRA DE TELEMETRIA HUD -->
+<!-- HUD BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=00F0FF&labelColor=090D16" alt="Status" />
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_MAX-FF0055?style=for-the-badge&logo=hackthebox&logoColor=FF0055&labelColor=090D16" alt="Security" />
   <img src="https://img.shields.io/badge/AI_CORE-INTEGRATED-FCEE0A?style=for-the-badge&logo=openai&logoColor=FCEE0A&labelColor=090D16" alt="AI Core" />
   <img src="https://img.shields.io/badge/HARDWARE-EMBEDDED_ACTIVE-00F0FF?style=for-the-badge&logo=arduino&logoColor=00F0FF&labelColor=090D16" alt="Embedded Active" />
-  <img src="https://komarev.com/ghpvc/?username=AquilesBorim&label=TELEMETRIA%20VISITAS&color=00F0FF&style=for-the-badge&labelColor=090D16" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AquilesBorim&label=VISITAS&color=00F0FF&style=for-the-badge&labelColor=090D16" alt="Profile Views" />
 </p>
 
 <!-- TERMINAL ANIMADO (LOOP EM TEMPO REAL) -->
@@ -39,21 +39,3 @@ RESUMO_PERFIL   : >
   Proficient across multiple paradigms with a solid foundation in C++, C#, Java,
   Python, TypeScript, and Kotlin, complemented by practical expertise in Node.js,
   React Native, modern front-end architectures (HTML5/CSS3/Vue.js), and Arduino prototyping.
-📟 [02] // TELEMETRIA DE SISTEMA (JARVIS HUD GAUGES)MÓDULODIAGNÓSTICO OPERACIONALCARGA DO SISTEMABackend & Logic CoreNode.js / FastAPI / C# / Python██████████████████░░ 92%Frontend & UI SystemsVue.js / TypeScript / Web 3D / CSS3█████████████████░░░ 88%Data & ArchitectureMariaDB / MySQL / Firebase / REST███████████████████░ 95%Hardware & MobileArduino IoT / .NET MAUI / Android████████████████░░░░ 82%AI Integration CoreGemini API / Automações de Atendimento██████████████████░░ 90%💻 [03] // TERMINAL ROADMAP (DIRETRIZES & METAS)Diffroot@cyberdeck-mainframe:~# ./execute_mission_profile.sh --year=2026
-
-[SYS_LOG] Carregando protocolos e objetivos operacionais...
-
-+ [CONCLUÍDO] Arquitetura de ERP proprietário Full-Stack com persistência em MariaDB
-+ [CONCLUÍDO] Automação fiscal de NF-e, DANFE e sincronização assíncrona de pedidos
-+ [CONCLUÍDO] Aplicativo mobile nativo para leitura óptica e rastreamento industrial (.NET MAUI)
-+ [CONCLUÍDO] Integração de agentes de Inteligência Artificial para suporte contextualizado
-
-! [EM ANDAMENTO] Otimização de microsserviços em C++, C# e Python para baixa latência
-! [EM ANDAMENTO] Prototipagem avançada de hardware e automação via Arduino & IoT
-! [EM ANDAMENTO] Arquiteturas distribuídas de alta disponibilidade e segurança defensiva
-
-- [PLANEJADO] Implementação de pipelines avançados de observabilidade e métricas de telemetria
-- [PLANEJADO] Desenvolvimento de pacotes e ferramentas open-source para a comunidade dev
-
-root@cyberdeck-mainframe:~# _
-⚡ [04] // MATRIZ TECNOLÓGICA (TECH STACK)CAMADATECNOLOGIAS & MÓDULOS ATIVOSLinguagens Base      Frontend & Web 3D   Backend & APIs   Mobile & Hardware   Dados & Nuvem   🛠️ [05] // ARSENAL OPERACIONAL & FERRAMENTAS🛰️ [06] // PROJETOS EM DESTAQUE (MAINFRAMES)📊 [07] // TELEMETRIA DO GITHUB🏆 [08] // SALA DE TROFÉUS (ACHIEVEMENTS)🐍 [09] // ANIMAÇÃO DA COBRA (CONTRIBUIÇÕES)🌐 [10] // CONTATOS & REDES
