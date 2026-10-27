@@ -47,16 +47,13 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 <br clear="both">
 <br>
 
-<!-- ======================== CALLOUT BOX NATIVO DO GITHUB ======================== -->
 > [!IMPORTANT]
 > **DIRETRIZ DE ARQUITETURA:** *"O código nunca está concluído; ele evolui continuamente para menor latência, maior resiliência e concisão estrutural."*
 
 <br>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 02: TELEMETRIA DE CARGA E TERMINAL ======================== -->
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Tech HUD Radar" />
 
 <h3 align="center">📟 <code>[02] // SYSTEM LOAD & MISSION ROADMAP</code></h3>
@@ -95,10 +92,8 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 🔴 <b>[FILA CRÍTICA]</b> Implementação de telemetria distribuída, métricas e observabilidade
 </pre>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 03: TECH STACK + LIVE STATS LADO A LADO ======================== -->
 <h3 align="center">⚡ <code>[03] // NEURAL TECH MATRIX & LIVE TELEMETRY</code></h3>
 
 <table align="center" width="100%">
@@ -123,10 +118,8 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AquilesBorim&layout=compact&langs_count=10&bg_color=090D16&title_color=00F0FF&text_color=E2E8F0&border_color=00F0FF&border_radius=12" alt="Top Languages" />
 </div>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 04: PROJETOS EM DESTAQUE ======================== -->
 <h3 align="center">🛰️ <code>[04] // DEPLOYED MAINFRAMES :: PROJETOS EM DESTAQUE</code></h3>
 
 <table width="100%">
@@ -172,25 +165,20 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
   </tr>
 </table>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 05: MÉTRICAS, TROFÉUS E COBRINHA ======================== -->
 <h3 align="center">📊 <code>[05] // QUANTUM METRICS & TROPHY VAULT</code></h3>
 
 <div align="center">
 
-  <!-- Gráfico de Atividade de Alto Contraste -->
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AquilesBorim&custom_title=NEURAL%20COMMIT%20TELEMETRY%20//%20ACTIVITY%20GRAPH&hide_border=false&theme=high-contrast&border_color=00F0FF&bg_color=090D16&radius=16&area_color=FF0055&area=true&point=00F0FF&line=FF0055&text_color=ffffff&title_color=00F0FF" alt="Activity Graph" />
 
   <br><br>
 
-  <!-- Troféus Cyberpunk -->
   <img width="98%" src="https://github-profile-trophy.vercel.app/?username=AquilesBorim&theme=cyberpunk&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies" />
 
   <br><br>
 
-  <!-- Snake Contribution Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AquilesBorim/AquilesBorim/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AquilesBorim/AquilesBorim/output/github-contribution-grid-snake.svg" />
@@ -199,10 +187,8 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 
 </div>
 
-<!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 06: COMUNICAÇÃO DIRETA & REDES ======================== -->
 <div align="center">
 
 <h3>🌐 <code>[06] // DIRECT COMM LINKS :: CONEXÕES</code></h3>
@@ -226,7 +212,6 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 
 <br><br>
 
-<!-- Footer Banner Final Animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:091B2F,100:050811&height=100&section=footer&text=END%20OF%20TRANSMISSION%20//%20AQUILES%20NETO&fontSize=13&fontColor=00F0FF&fontAlignY=68" alt="Footer Banner" />
 
 </div>
