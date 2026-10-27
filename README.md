@@ -224,13 +224,12 @@
 <!--SEÇÃO 06 -->
 <div align="center">
 
-<h3>🌐 <code>[06] // NEURAL COMM CHANNELS :: PROTOCOLOS DE TRANSMISSÃO</code></h3>
+<h3>🌐 <code>NEURAL COMM CHANNELS :: PROTOCOLOS DE TRANSMISSÃO</code></h3>
 
 <p>
-  <i>Selecione uma rota criptografada para inicializar handshake direto com o operador:</i>
+  <i>Selecione uma rota criptografada para inicializar o contato direto com o operador:</i>
 </p>
 
-<!-- TABELA DE ROTEAMENTO ESTILO HUD / CYBERDECK -->
 <table width="100%">
   <thead>
     <tr>
@@ -287,11 +286,10 @@
 <br>
 
 <pre>
-⚡ <b>DISPATCH LOG:</b> Transceiver array active // Handshake protocol TLS 1.3 verified
+⚡ <b>DISPATCH LOG:</b> Transceiver array active // Contact protocol TLS 1.3 verified
 📡 <b>TELEMETRY STATUS:</b> ALL PACKETS ROUTED TO MAIN CONSOLE // ZERO LATENCY LOSS
 </pre>
 
-<!-- FOOTER CIBERNÉTICO FINAL -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:091B2F,100:050811&height=110&section=footer&text=END%20OF%20TRANSMISSION%20%2F%2F%20AQUILES%20NETO&fontSize=14&fontColor=00F0FF&fontAlignY=68" alt="Footer Banner" />
 
 </div>
