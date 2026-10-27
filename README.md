@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/ARCH-FULLSTACK-FF0055?style=flat-square&labelColor=090D16" />
     </td>
     <td width="64%" valign="top">
-      <h3>⚡ <code>[01] // BIOMETRIC_SCAN :: OPERATOR_DOSSIER</code></h3>
+      <h3>⚡ <code>BIOMETRIC_SCAN :: OPERATOR_DOSSIER</code></h3>
       <p align="justify">
         <b>Full-Stack Software Developer & Systems Architect</b> especializado em plataformas corporativas de alta performance, automações de missão crítica, aplicativos móveis e computação embarcada.
       </p>
@@ -94,7 +94,7 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
 <!--  SEÇÃO 03-->
-<h3 align="center">⚡ <code>[03] // NEURAL TECH MATRIX & LIVE TELEMETRY</code></h3>
+<h3 align="center">⚡ <code>NEURAL TECH MATRIX & LIVE TELEMETRY</code></h3>
 
 <table align="center" width="100%">
   <tr>
