@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ======================== BANNER PRINCIPAL CYBERDECK (CORTE SLICE NEON) ======================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:050811,40:091B2F,75:00F0FF,100:FF0055&height=225&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=J.A.R.V.I.S.%20NEURAL%20MAINFRAME%20%2F%2F%20FULL-STACK%20SYSTEMS%20ARCHITECT&descAlignY=62&descSize=15&descColor=00F0FF" alt="Cyberpunk Banner" />
+<!-- ======================== BANNER PRINCIPAL COM ANIMAÇÃO TWINKLING & CORES CYBER ======================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,45:7000FF,100:00F0FF&height=220&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=J.A.R.V.I.S.%20NEURAL%20MAINFRAME%20%2F%2F%20FULL-STACK%20SYSTEMS%20ARCHITECT&descAlignY=62&descSize=15&descColor=00F0FF" alt="Cyberpunk Animated Banner" />
 
 <!-- ======================== STATUS TELEMETRY BADGES ======================== -->
 <p align="center">
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=00F0FF&labelColor=090D16" alt="System Online" />
 </p>
 
-<!-- ======================== TYPING ANIMATION ======================== -->
+<!-- ======================== TYPING ANIMATION (ALTURA EXPANDIDA) ======================== -->
 <a href="https://github.com/aqxja">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=00F0FF&background=090D1600&center=true&vCenter=true&multiline=true&repeat=true&width=880&height=135&lines=%3E+SYS.INIT%3A+AQUILES+NETO+%2F%2F+NEURAL+MAINFRAME;%3E+FULL-STACK+SOFTWARE+ENGINEER+%7C+SYSTEMS+%26+ERP+ARCHITECT;%3E+STACK%3A+C%2B%2B+%7C+C%23+%7C+JAVA+%7C+PYTHON+%7C+TS%2FJS+%7C+KOTLIN+%7C+NODE;%3E+FRAMEWORKS%3A+FASTAPI+%7C+VUE.JS+%7C+.NET+MAUI+%7C+REACT+NATIVE+%7C+ARDUINO;%3E+DEPLOYING+HIGH-PERFORMANCE+SYSTEMS+%26+AUTOMATION+AGENTS" alt="Typing Animation" />
 </a>
@@ -49,7 +49,7 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 <!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 02: TELEMETRIA DE CARGA E TERMINAL ======================== -->
+<!-- ======================== SEÇÃO 02: TELEMETRIA DE CARGA E TERMINAL (CORRIGIDA) ======================== -->
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Tech HUD Radar" />
 
 <h3 align="center">📟 <code>[02] // SYSTEM LOAD & MISSION ROADMAP</code></h3>
@@ -63,11 +63,11 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 <div align="center">
 
 | CAMADA OPERACIONAL | STACK PRINCIPAL | CARGA DO SISTEMA |
-| :--- | :--- | :--- |
-| **Backend & Core APIs** | Node.js • FastAPI • C# • Python • Express | `██████████████████░░` **92%** |
-| **Frontend & UI 3D** | Vue.js • TypeScript • Three.js • CSS3 | `█████████████████░░░` **88%** |
-| **Data & Architecture** | MariaDB • MySQL • Firebase • SQLite | `███████████████████░` **95%** |
-| **Mobile & Embedded** | .NET MAUI • React Native • Arduino • C++ | `████████████████░░░░` **85%** |
+| :--- | :--- | :---: |
+| **Backend & Core APIs** | Node.js • FastAPI • C# • Python • Express | <img src="https://img.shields.io/badge/LOAD-92%25-00F0FF?style=for-the-badge&logo=speedtest&logoColor=00F0FF&labelColor=090D16" /> |
+| **Frontend & UI 3D** | Vue.js • TypeScript • Three.js • CSS3 | <img src="https://img.shields.io/badge/LOAD-88%25-7000FF?style=for-the-badge&logo=vuedotjs&logoColor=7000FF&labelColor=090D16" /> |
+| **Data & Architecture** | MariaDB • MySQL • Firebase • SQLite | <img src="https://img.shields.io/badge/LOAD-95%25-FF0055?style=for-the-badge&logo=mariadb&logoColor=FF0055&labelColor=090D16" /> |
+| **Mobile & Embedded** | .NET MAUI • React Native • Arduino • C++ | <img src="https://img.shields.io/badge/LOAD-85%25-FCEE0A?style=for-the-badge&logo=arduino&logoColor=FCEE0A&labelColor=090D16" /> |
 
 </div>
 
@@ -167,7 +167,7 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 <!-- DIVISOR NEON CIBERNÉTICO -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Neon Divider" />
 
-<!-- ======================== SEÇÃO 05: CENTRAL DE COMANDO QUANTUM & COBRINHA ======================== -->
+<!-- ======================== SEÇÃO 05: CENTRAL DE COMANDO QUANTUM & COBRINHA (EMOLDURADA) ======================== -->
 <div align="center">
 
 <h3>📊 <code>[05] // QUANTUM_METRICS :: LIVE TELEMETRY MATRIX</code></h3>
@@ -196,14 +196,27 @@ Experiência consolidada na entrega de **ERPs completos, automações fiscais s�
 
 <br>
 
-<!-- CONTRIBUTION SNAKE STREAM (APONTADA PARA O REPOSITÓRIO REAL) -->
-<h4>🐍 CONTRIBUTION MATRIX STREAM</h4>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqxja/AquilesBorim/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqxja/AquilesBorim/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/aqxja/AquilesBorim/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<!-- CARD EMOLDURADO DA COBRINHA (ESTRUTURA RADAR HUD) -->
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">
+        <code>[ RADAR TELEMETRY ] • CONTRIBUTION MATRIX STREAM • [ REAL-TIME FEED ]</code>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqxja/AquilesBorim/output/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqxja/AquilesBorim/output/github-contribution-grid-snake.svg" />
+          <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/aqxja/AquilesBorim/output/github-contribution-grid-snake-dark.svg" width="100%" />
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
