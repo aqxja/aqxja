@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://github.com/aqxja">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=00F0FF&background=090D1600&center=true&vCenter=true&multiline=true&repeat=true&width=880&height=135&lines=%3E+SYS.INIT%3A+AQUILES+NETO+%2F%2F+NEURAL+MAINFRAME;%3E+FULL-STACK+SOFTWARE+ENGINEER+%7C+SYSTEMS+%26+ERP+ARCHITECT;%3E+STACK%3A+C%2B%2B+%7C+C%23+%7C+JAVA+%7C+PYTHON+%7C+TS%2FJS+%7C+KOTLIN+%7C+NODE;%3E+FRAMEWORKS%3A+FASTAPI+%7C+VUE.JS+%7C+.NET+MAUI+%7C+REACT+NATIVE+%7C+ARDUINO;%3E+DEPLOYING+HIGH-PERFORMANCE+SYSTEMS+%26+AUTOMATION+AGENTS" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2400&pause=800&color=00F0FF&background=090D1600&center=true&vCenter=true&multiline=true&repeat=true&width=880&height=135&lines=%3E+SYS.INIT%3A+AQUILES+BORIM+%2F%2F+NEURAL+MAINFRAME;%3E+FULL-STACK+SOFTWARE+ENGINEER+%7C+SYSTEMS+%26+ERP+ARCHITECT;%3E+STACK%3A+C%2B%2B+%7C+C%23+%7C+JAVA+%7C+PYTHON+%7C+TS%2FJS+%7C+KOTLIN+%7C+NODE;%3E+FRAMEWORKS%3A+FASTAPI+%7C+VUE.JS+%7C+.NET+MAUI+%7C+REACT+NATIVE+%7C+ARDUINO;%3E+DEPLOYING+HIGH-PERFORMANCE+SYSTEMS+%26+AUTOMATION" alt="Typing Animation" />
 </a>
 
 </div>
