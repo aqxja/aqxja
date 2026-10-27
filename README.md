@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:00F0FF,100:FF0055&height=200&section=header&text=AQUILES%20NETO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20Systems%20Architect&descAlignY=62&descSize=15&descColor=00F0FF" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:00F0FF,100:FF0055&height=200&section=header&text=AQUILES%20BORIM&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20Systems%20Architect&descAlignY=62&descSize=15&descColor=00F0FF" alt="Header Banner" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=00F0FF&labelColor=090D16" alt="Status" />
