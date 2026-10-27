@@ -40,11 +40,8 @@ RESUMO_PERFIL   : >
 
 
 Backend & Logic Core	Node.js / FastAPI / C# / Python	██████████████████░░ 92%
-
 Frontend & UI Systems	Vue.js / TypeScript / Web 3D / CSS3	█████████████████░░░ 88%
-
 Data & Architecture	MariaDB / MySQL / Firebase / REST	███████████████████░ 95%
-
 Hardware & Mobile	Arduino IoT / .NET MAUI / Android	████████████████░░░░ 82%
 
 💻 [03] // TERMINAL ROADMAP (DIRETRIZES & METAS)
