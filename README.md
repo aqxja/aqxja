@@ -24,7 +24,7 @@
 
 ```yaml
 # ==============================================================================
-# J.A.R.V.I.S. TELEMETRY DIAGNOSTIC // PROFILE IDENTIFICATION
+#USER-CONFIGS
 # ==============================================================================
 OPERADOR        : "Aquiles José Antonio Borim Neto"
 FUNÇÃO          : "Full-Stack Software Developer & Systems Architect"
