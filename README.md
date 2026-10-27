@@ -224,48 +224,74 @@
 <!--SEÇÃO 06 -->
 <div align="center">
 
-<h3>🌐 <code> NEURAL COMM CHANNELS :: PROTOCOLOS DE TRANSMISSÃO</code></h3>
+<h3>🌐 <code>[06] // NEURAL COMM CHANNELS :: PROTOCOLOS DE TRANSMISSÃO</code></h3>
 
+<p>
+  <i>Selecione uma rota criptografada para inicializar handshake direto com o operador:</i>
+</p>
+
+<!-- TABELA DE ROTEAMENTO ESTILO HUD / CYBERDECK -->
 <table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://linkedin.com" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090D16" alt="LinkedIn" /><br>
-        <code>[ CONEXÕES • CARREIRA • PROJETOS ]</code>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="mailto:contato@exemplo.com" target="_blank">
-        <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090D16" alt="Gmail" /><br>
-        <code>[ PROPOSTAS • NEGÓCIOS • B2B ]</code>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <br>
-      <a href="https://wa.me/" target="_blank">
-        <img src="https://img.shields.io/badge/WHATSAPP_DISPATCH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=090D16" alt="WhatsApp" /><br>
-        <code>[ ATENDIMENTO DIRETO • INSTANTÂNEO ]</code>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <br>
-      <a href="https://instagram.com" target="_blank">
-        <img src="https://img.shields.io/badge/INSTAGRAM_LOGS-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=090D16" alt="Instagram" /><br>
-        <code>[ TECH LIFESTYLE • DAILY BUILDS ]</code>
-      </a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="24%" align="center">PROTOCOLO</th>
+      <th width="30%" align="center">CANAL OPERACIONAL</th>
+      <th width="22%" align="center">PORT STATUS</th>
+      <th width="24%" align="center">ESTABELECER LINK</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><code>TLS_1.3 // B2B</code></td>
+      <td align="center"><b>LinkedIn Network</b><br><sub>Conexões, Projetos & Carreira</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/ONLINE-00F0FF?style=flat-square&labelColor=090D16" alt="Online" /></td>
+      <td align="center">
+        <a href="https://linkedin.com" target="_blank">
+          <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><code>SMTP // DIRECT</code></td>
+      <td align="center"><b>Encrypted Mail</b><br><sub>Propostas Comerciais & B2B</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/SECURE-FF0055?style=flat-square&labelColor=090D16" alt="Secure" /></td>
+      <td align="center">
+        <a href="mailto:contato@exemplo.com" target="_blank">
+          <img src="https://img.shields.io/badge/DISPATCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><code>WSS // INSTANT</code></td>
+      <td align="center"><b>WhatsApp Uplink</b><br><sub>Atendimento Direto & Ágil</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/REALTIME-39FF14?style=flat-square&labelColor=090D16" alt="Realtime" /></td>
+      <td align="center">
+        <a href="https://wa.me/" target="_blank">
+          <img src="https://img.shields.io/badge/CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><code>HTTP // MEDIA</code></td>
+      <td align="center"><b>Instagram Logs</b><br><sub>Tech Lifestyle & Dev Updates</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/SYNCED-FCEE0A?style=flat-square&labelColor=090D16" alt="Synced" /></td>
+      <td align="center">
+        <a href="https://instagram.com" target="_blank">
+          <img src="https://img.shields.io/badge/FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<br><br>
+<br>
 
 <pre>
-⚡ <b>DISPATCH LOG</b> // <i>"Sometimes you gotta run before you can walk."</i> ⚡
-STATUS: <b>TRANSMISSION COMPLETED</b> // PORT 443 [TLS 1.3] // ALL PACKETS ROUTED
+⚡ <b>DISPATCH LOG:</b> Transceiver array active // Handshake protocol TLS 1.3 verified
+📡 <b>TELEMETRY STATUS:</b> ALL PACKETS ROUTED TO MAIN CONSOLE // ZERO LATENCY LOSS
 </pre>
 
+<!-- FOOTER CIBERNÉTICO FINAL -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:091B2F,100:050811&height=110&section=footer&text=END%20OF%20TRANSMISSION%20%2F%2F%20AQUILES%20NETO&fontSize=14&fontColor=00F0FF&fontAlignY=68" alt="Footer Banner" />
 
 </div>
